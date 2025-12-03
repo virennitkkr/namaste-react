@@ -1,0 +1,12 @@
+#heading{
+    color:red
+}
+#child1{
+    color:blue;
+}
+#parent #child2 {
+    color:green;        
+}
+#parent #child3 {
+    color:orange;        
+}

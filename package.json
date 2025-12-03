@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is my First Reach Js Project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virennitkkr/namaste-react.git"
+  },
+  "keywords": [
+    "namaste",
+    "reach",
+    "viren"
+  ],
+  "author": "Viren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virennitkkr/namaste-react/issues"
+  },
+  "homepage": "https://github.com/virennitkkr/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
